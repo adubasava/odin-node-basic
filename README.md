@@ -1,1 +1,1 @@
-# odin-node-basic
+# Odin Project. Node.js. Basic informational site
